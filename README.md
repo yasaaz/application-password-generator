@@ -6,7 +6,6 @@ Table of Contents
 
 Introduction
 Quiz Instructions
-HTML and CSS Code
 Introduction
 
 The quiz functionality is developed using JavaScript. It follows a specific set of instructions to create a quiz game where users can answer questions and save their scores with initials.
